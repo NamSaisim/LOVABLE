@@ -1,0 +1,156 @@
+body {
+    background-image: url("bg2.png");
+    background-repeat: repeat;
+}
+header {
+    border: 1px solid black;
+    text-align: center;
+    height: auto;
+    background-color: white;
+    margin: 2em;
+    padding: 1em;
+}
+
+.body1 {
+    border: 1px solid black;
+    text-align: center;
+    height: auto;
+    background-color: white;
+    margin: 2em;
+    padding: 1em;
+}
+
+.body2 {
+    border: 1px solid black;
+    text-align: center;
+    height: auto;
+    background-color: white;
+    margin: 2em;
+    padding: 1em;
+    
+}
+footer {
+    border: 1px solid black;
+    text-align: center;
+    height: auto;
+    background-color: white;
+    margin: 2em;
+    padding: 1em;
+}
+.col span {
+    display: inline-block;
+    margin-left: 5px;
+}
+
+input[type=search] {
+    box-sizing: border-box;
+    width: 100%;
+    border-radius: 0.3em;
+    margin-right: 0.5em;
+}
+
+.button-search {
+    background-color: violet;
+    width: 20%;
+    font-weight: bold;
+    color: whitesmoke;
+    border-radius: 0.3em;
+    cursor: pointer;
+}
+
+.button-nav {
+    background-color: violet;
+    width: 100%;
+    font-weight: bold;
+    color: whitesmoke;
+    border-radius: 0.3em;
+    cursor: pointer;
+}
+
+.carousel-inner {
+    width: 40%;
+    margin: auto;
+}
+
+.carousel-control-prev {
+    width: auto;
+    height: auto;
+    margin-left: auto;
+    padding-left: 5em;
+}
+
+.carousel-control-next {
+    width: auto;
+    height: auto;
+    margin-right: auto;
+    padding-right: 5em;
+}
+
+.carousel-control-prev-icon {
+    background-color: violet;
+    color: black;
+    border-radius: 1em;
+}
+
+.carousel-control-next-icon {
+    background-color: violet;
+    border-radius: 1em;
+}
+
+.footer-contact {
+    text-align: left;
+}
+
+/* .col-sm {
+    padding-top: 2em;
+} */
+.body2-recommend a {
+    text-decoration: none;
+    color: black;
+}
+
+.row img {
+    width: 85%;
+}
+
+.row a {
+    text-decoration: none;
+    color: black;
+}
+
+.bag-btn {
+    background-color: violet;
+    width: 80%;
+    font-weight: bold;
+    color: whitesmoke;
+    border-radius: 0.3em;
+    cursor: pointer;
+}
+
+
+.sign-up {
+    color: black;
+    font-weight: bold;
+}
+
+.form-group {
+    width: 25%;
+    margin: auto;
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: violet;
+    border-color: black;
+    width: auto;
+    height: auto;
+    font-weight: bold;
+    color: whitesmoke;
+    text-transform: uppercase;
+    border-radius: 0.3em;
+    cursor: pointer;
+}
+
+.col-8 {
+    padding-top: 5em;
+}
